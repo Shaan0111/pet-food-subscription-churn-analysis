@@ -1,11 +1,5 @@
 
 
-# 📌 Extracted Questions (From Your Project)
-
-You can keep these as a separate file (like documentation or problem statement):
-
----
-
 ## SECTION 1: Core Business Questions
 
 1. What is the overall churn rate?
@@ -43,5 +37,57 @@ You can keep these as a separate file (like documentation or problem statement):
 ## SECTION 5: Customer Segmentation
 
 15. Which segment has the highest churn?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 16. Which segment contributes the most revenue?
 
